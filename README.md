@@ -8,6 +8,8 @@ Simple repro to show what happens when you change the password for a user that a
 # First time only
 npm install
 
+# Edit url, username, password in index.js
+
 # Run it
 node .
 ```
