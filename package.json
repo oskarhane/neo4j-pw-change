@@ -1,0 +1,17 @@
+{
+  "name": "cloud-pw-repro",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "engines": {
+    "node": ">=10"
+  },
+  "author": "Oskar Hane <oskar.hane@neo4j.com>",
+  "license": "ISC",
+  "dependencies": {
+    "neo4j-driver": "^1.7.5"
+  }
+}
